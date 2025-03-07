@@ -28,7 +28,8 @@ To discover recurring themes, I leveraged BERTopic, a transformer-based clusteri
 
 Extracted key topics from lyrics.
 Created visualizations of thematic distributions across albums.
-📊 Interactive Dashboard (Tableau)
+
+## 📊 Interactive Dashboard (Tableau)
 
 ### To make the insights more accessible, I built an interactive Tableau dashboard that visualizes:
 
